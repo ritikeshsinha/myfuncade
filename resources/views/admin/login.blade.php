@@ -22,7 +22,7 @@
                                         <div class="alert alert-danger">{{ Session::get('error') }}</div>
                                         @endif
                                         <div class="mb-5">
-                                            <h4 class="text-center">Admin Login Here</h4>
+                                            <h4 class="text-center">Admin Login Here//</h4>
                                         </div>
                                     </div>
                                 </div>
