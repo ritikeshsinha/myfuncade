@@ -106,7 +106,7 @@
         outline: none; /* Remove default browser outline */
     }
     .tx-col{
-    color:  #FBA602;);
+    color:  #FBA602;
     }
       @media (max-width: 1201px) {
         /* Hide the image on small screens */
